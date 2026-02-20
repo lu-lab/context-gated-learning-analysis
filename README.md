@@ -19,6 +19,9 @@ Notes on system requirements
 - Typical install time determined by time needed to install MATLAB, not setup of provided files/scripts
 
 ## 3) Demo instructions
+See code_demo folder for demo scripts and data
+*Disclaimer, data in code_demo folder provided for demonstration purposes only to show functionality and assist with installation and debugging. The demo data is not a representative sample of the overall dataset associated with the manuscript.
+
 Run the scripts in the following order (first letter indicates order to run)
 - A_get_folders_w_csv_xlsx.m
 - B_check_csv_xlsx_redundancy.m
