@@ -1,24 +1,12 @@
 ## 1) System Requirements
-Required Software:
-- MATLAB (version 2021b)
-- Parallel Computing Toolbox
-- Statistics and Machine Learning Toolbox
-- GenLouvain Toolbox (https://github.com/GenLouvain/GenLouvain), included in helpers folder
-	
-Operating Systems Tested: 
-- MacOS 15 Sequoia, MacOS 26 Tahoe (Intel processor, not ARM)
-
-Notes on system requirements
-- For running on different processor architectures/OS may need to recompile the GenLouvain toolbox
-- Other versions of MATLAB may work, but if you encounter any issues I recommend running on version 2021b
-- On MacOS26 Tahoe, execution of GenLouvain toolbox may be blocked by system security on first run	
+See main repository readme
 
 ## 2) Installation guide
-- Download and install MATLAB 2021b
-- Download and unzip provided code and data files
-- Typical install time determined by time needed to install MATLAB, not setup of provided files/scripts
+See main repository readme
 
 ## 3) Demo instructions
+*Disclaimer, data provided for demonstration purposes only to show functionality and assist with installation and debugging. The demo data is not a representative sample of the overall dataset associated with the manuscript.
+
 Run the scripts in the following order (first letter indicates order to run)
 - A_get_folders_w_csv_xlsx.m
 - B_check_csv_xlsx_redundancy.m
